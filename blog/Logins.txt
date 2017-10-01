@@ -1,0 +1,2 @@
+USER PASSWORD NOTES
+admin blogpassword "Blog Superuser"
